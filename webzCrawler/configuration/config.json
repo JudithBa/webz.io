@@ -4,12 +4,6 @@
     "login_password": "5tgb&UJM",
     "PAGE_URL": "https://www.turkhacks.com/",
     "LOGIN_PAGE": "https://www.turkhacks.com/giris/"
-
-    },
-    "selenium": {
-    "debug_mode": true,
-    "tmp_folder" : "/tmp/local_browser_data/",
-    "chromedriver_path": "/usr/local/bin/chromedriver"
-  }
+    }
 }
 
