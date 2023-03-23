@@ -5,10 +5,10 @@ in order to run the code please use Typer CLI from the turkhacks folder
 
 *Typer turkhacks.py run*
 
-After runing the command you will find all the donloaded data under ./data folder
+After runing the command you will find all the donloaded data under **./data** folder
 
 
-#NOTES-
+# NOTES-
 
 
 Asomption and corner cuts that was made-
