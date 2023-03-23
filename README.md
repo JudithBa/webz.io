@@ -1,7 +1,7 @@
 # webz.io
 webz.io crawler on turkhacks.com
 
-in order to run the code please use Typer CLI from the  **Turkhacks folder
+in order to run the code please use Typer CLI from the **Turkhacks folder**
 
 *Typer turkhacks.py run*
 
