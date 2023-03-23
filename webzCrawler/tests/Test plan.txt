@@ -1,0 +1,21 @@
+example of tests in order to test the code functionality-
+
+Test the login function-
+    1. Test that the function returns the expected result when the correct username and password are provided.
+    2. Test that the function returns the expected result when incorrect login credentials are provided.
+
+Test the getArticalsInRange function:
+    1.Test that the function returns the expected result when the page range is valid.
+    2.Test that the function returns the expected result when the page range is invalid.
+
+Test the goOverPages function:
+    1.Test that the function create the Threads
+    2.test the the function get the page number from the page
+
+Test the extract_data function:
+    1.test that the function return the expected result when given a post_elemtent valid with the right fields and invalid
+
+Test InitDriver function:
+    1.test that check that the chrome driver created with the right options.
+
+and many more :)
